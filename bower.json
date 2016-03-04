@@ -1,7 +1,7 @@
 {
   "name": "ember-app",
   "dependencies": {
-    "ember": "1.13.11",
+    "ember": "2.3.0",
     "ember-cli-shims": "0.0.6",
     "ember-cli-test-loader": "0.2.1",
     "ember-data": "~2.3.2",
@@ -12,8 +12,5 @@
     "jquery": "1.11.3",
     "loader.js": "ember-cli/loader.js#3.4.0",
     "qunit": "~1.20.0"
-  },
-  "resolutions": {
-    "ember": "^2.0.0"
   }
 }
